@@ -43,15 +43,19 @@ Happy cloud learning! 🚀☁️
 
 **Day 2: Azure Budgets and Cost Management** <ComingSoon>
 - Understand effective cost management in Azure.
+- https://dev.to/mohan060104/azure-budgets-and-cost-management-insights-from-day-2-of-the-100daysofcloudchallenge-2254
 
 **Day 3: Azure Resource Groups** <ComingSoon>
 - Learn the importance of resource groups for organizing and managing Azure resources.
+- https://dev.to/mohan060104/what-is-an-azure-resource-group-day-3-of-the-100daysofcloudchallenge-5d1k
 
 **Day 4: Azure Active Directory and RBAC Roles** <ComingSoon>
 - Explore Azure Active Directory and Role-Based Access Control for secure identity and access management.
+- https://dev.to/mohan060104/day-4-of-100daysofcloud-navigating-azures-identity-landscape-azure-active-directory-and-rbac-40e1
 
 **Day 5-7: Virtual Machine Deployment** <ComingSoon>
 - Deploy virtual machines using the Azure Portal, PowerShell, and ARM Templates.
+- Day 5: https://dev.to/mohan060104/day-5-mastering-azure-virtual-machines-deployment-in-100daysofcloud-5h4g
 
 **Day 8: Azure Resource Locks and Azure Policy** <ComingSoon>
 - Implement resource locks and policies for enhanced governance.
