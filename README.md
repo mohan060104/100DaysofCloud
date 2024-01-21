@@ -56,7 +56,7 @@ Happy cloud learning! 🚀☁️
 **Day 5-7: Virtual Machine Deployment** <ComingSoon>
 - Deploy virtual machines using the Azure Portal, PowerShell, and ARM Templates.
 - Day 5: https://dev.to/mohan060104/day-5-mastering-azure-virtual-machines-deployment-in-100daysofcloud-5h4g
-
+- Day 6: https://dev.to/mohan060104/day-6-of-100daysofcloud-empowering-vm-deployment-with-azure-powershell-15gf
 **Day 8: Azure Resource Locks and Azure Policy** <ComingSoon>
 - Implement resource locks and policies for enhanced governance.
 
