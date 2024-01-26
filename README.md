@@ -62,24 +62,23 @@ Happy cloud learning! 🚀☁️
 **Day 8: Azure Resource Locks and Azure Policy** <ComingSoon>
 - Implement resource locks and policies for enhanced governance.
 - https://dev.to/mohan060104/day-8-empowering-cloud-deployments-unleashing-azure-vms-with-arm-templates-in-100daysofcloud-1ppo
-
-**Day 9: Azure Network Security Groups (NSG)** <ComingSoon>
+- Day 9: https://dev.to/mohan060104/day-9-fortifying-azure-governance-empowering-with-azure-policy-and-rbac-in-100daysofcloud-4mfn
+**Day 10: Azure Network Security Groups (NSG)** <ComingSoon>
 - Explore network security with NSGs.
-- https://dev.to/mohan060104/day-9-fortifying-azure-governance-empowering-with-azure-policy-and-rbac-in-100daysofcloud-4mfn
 
-**Day 10-11: Azure Virtual Networks (Part 1-2)** <ComingSoon>
+**Day 11-12: Azure Virtual Networks (Part 1-2)** <ComingSoon>
 - Configure Azure Virtual Networks and understand peering.
 
-**Day 12-13: Azure VPN Connectivity** <ComingSoon>
+**Day 13-14: Azure VPN Connectivity** <ComingSoon>
 - Set up Point-to-Site and Site-to-Site VPN Connectivity.
 
-**Day 14: Azure Managed Identities** <ComingSoon>
+**Day 15: Azure Managed Identities** <ComingSoon>
 - Understand and implement Azure Managed Identities.
 
-**Day 15: Azure Key Vault** <ComingSoon>
+**Day 16: Azure Key Vault** <ComingSoon>
 - Securely manage and protect sensitive information using Azure Key Vault.
 
-**Day 16: Azure Firewall** <ComingSoon>
+**Day 17: Azure Firewall** <ComingSoon>
 - Explore Azure Firewall for network security.
 
 **Day 18-19: Azure Migrate and Site Recovery** <ComingSoon>
