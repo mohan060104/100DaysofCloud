@@ -57,12 +57,15 @@ Happy cloud learning! 🚀☁️
 - Deploy virtual machines using the Azure Portal, PowerShell, and ARM Templates.
 - Day 5: https://dev.to/mohan060104/day-5-mastering-azure-virtual-machines-deployment-in-100daysofcloud-5h4g
 - Day 6: https://dev.to/mohan060104/day-6-of-100daysofcloud-empowering-vm-deployment-with-azure-powershell-15gf
+- Day 7: https://dev.to/mohan060104/day-7-reflections-bridging-theory-to-practice-azure-unveiled-in-100daysofcloud-45a5
 
 **Day 8: Azure Resource Locks and Azure Policy** <ComingSoon>
 - Implement resource locks and policies for enhanced governance.
+- https://dev.to/mohan060104/day-8-empowering-cloud-deployments-unleashing-azure-vms-with-arm-templates-in-100daysofcloud-1ppo
 
 **Day 9: Azure Network Security Groups (NSG)** <ComingSoon>
 - Explore network security with NSGs.
+- https://dev.to/mohan060104/day-9-fortifying-azure-governance-empowering-with-azure-policy-and-rbac-in-100daysofcloud-4mfn
 
 **Day 10-11: Azure Virtual Networks (Part 1-2)** <ComingSoon>
 - Configure Azure Virtual Networks and understand peering.
