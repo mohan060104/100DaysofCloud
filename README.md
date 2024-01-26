@@ -63,6 +63,7 @@ Happy cloud learning! 🚀☁️
 - Implement resource locks and policies for enhanced governance.
 - https://dev.to/mohan060104/day-8-empowering-cloud-deployments-unleashing-azure-vms-with-arm-templates-in-100daysofcloud-1ppo
 - Day 9: https://dev.to/mohan060104/day-9-fortifying-azure-governance-empowering-with-azure-policy-and-rbac-in-100daysofcloud-4mfn
+
 **Day 10: Azure Network Security Groups (NSG)** <ComingSoon>
 - Explore network security with NSGs.
 
